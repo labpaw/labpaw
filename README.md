@@ -1,3 +1,3 @@
 ## Hi, I'm Dave 👋
 
-I'm an MSc Computer Science student and I enjoy building with Nuxt and Vue.
+I'm a postgraduate Computer Science student and a dad to a beautiful little girl. 
