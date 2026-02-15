@@ -1,3 +1,3 @@
 ## Hi 👋
 
-I'm a postgraduate Computer Science student and a dad to a beautiful little girl. 
+I'm a Computer Science postgraduate and a dad to a beautiful little girl. 
